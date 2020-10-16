@@ -70,8 +70,8 @@ function grafic() {
           margin={{
             top: 5,
             right: 30,
-            left: 90,
-            bottom: 50,
+            left: 200,
+            bottom: 20,
           }}
         >
           <CartesianGrid strokeDasharray="3 3" />
